@@ -1,4 +1,4 @@
-## Desenvolvimento Mobile
+## Desenvolvimento Mobile - iOS
   
   Em nossas primeiras reuniões tivemos algumas ideias para desenvolvimento de um aplicativo mobile para a comunidade DevMT.
   A principal ideia desse aplicativo é divulgar a movimentação da comunidade, disponibilizando;
