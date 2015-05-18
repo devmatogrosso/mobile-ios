@@ -17,3 +17,11 @@
 ## Você quer ajudar ? 
   
    Seja bemv indo! Crie um fork e vamos codar.
+
+## Ferramentas
+[xCode](https://developer.apple.com/xcode/)
+
+
+## Material
+[Swift](https://developer.apple.com/swift/)
+[RayWenderlich](http://www.raywenderlich.com/)
